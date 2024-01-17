@@ -200,11 +200,13 @@ Then you get the **Integrals**
 For a **Fraction** containing both x and y:
 
 ```csv
+
 when x/y = 0, Slope is Horizontal or Veritical?, Conclusion
 x, H, x/y
 y, H, y/x
 x, V, y/x
 y, V, x/y
+
 ```
 ---
 
@@ -299,9 +301,9 @@ Before Integrating Polar, softly sketch (all the way following the given graph) 
 
 - Use 'p' or 'geo' or  'alternating' acc. to the characteristic.
 
-- IF can't, we still have: **limit/direct comparision, ratio**.
+- If can't, we still have: **limit/direct comparision, ratio**.
 
-- IF they all die, USE **INTEGRAL TEST** as your ultimate weapon :) Enjoy!
+- If they all die, USE **INTEGRAL TEST** as your ultimate weapon :) Enjoy!
 
 Dont forget to test if **Conditionally or Absolutely**!
 
